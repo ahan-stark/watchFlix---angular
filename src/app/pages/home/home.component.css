@@ -54,3 +54,6 @@
 .category-name{
     color: #ffee00;
 }
+.contain-fluid:hover{
+    cursor: pointer;
+}
