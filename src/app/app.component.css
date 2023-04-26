@@ -1,0 +1,15 @@
+/* .navbar .navbar-brand
+{
+    color: #E50914;
+    font-weight: bold;
+} */
+
+.navbar-nav .nav-item .nav-link
+{
+    color: #ffee00;
+}
+.navbar .navbar-brand
+{
+    color: #ffee00;
+    font-weight: bold;
+}
